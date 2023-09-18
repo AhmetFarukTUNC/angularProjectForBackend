@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\AngularProject\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Monster\source\repos\AngularProject\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Monster\source\repos\AngularProject\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Monster\source\repos\AngularProject\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+C:\Users\Monster\source\repos\AngularProject\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
